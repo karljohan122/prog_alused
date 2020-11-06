@@ -41,5 +41,3 @@ if keskmine(sammud) > 10000:
     print("Keskmine sammude arv nädalas on 10000, olete tubli :)")
 else:
     print("Keskmine sammude arv nädalas on alla 10000, peate suurema entusiasmiga kõndima")
-
-km(1, 2)
